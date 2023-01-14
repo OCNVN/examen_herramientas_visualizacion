@@ -4,5 +4,8 @@
     {"alumno":"Esteban Bernal","nota":3,"ranking":100},
     {"alumno":"Miriam Alvarez","nota":8.0,"ranking":30},
     {"alumno":"Monica Ramos","nota":7,"ranking":80},
-    {"alumno":"Carla Batistuta","nota":0.5,"ranking":12}
+    {"alumno":"Juan Manchego","nota":0.5,"ranking":12},
+    {"alumno":"Johanna Leon","nota":1,"ranking":45},
+    {"alumno":"Esteban Dido","nota":2.2,"ranking":125},
+    {"alumno":"Rafael Correa","nota":5.3,"ranking":57}
 ]
